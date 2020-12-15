@@ -1,0 +1,3 @@
+# Generating-Synthetic-Images-using-DCGANs
+
+To create a machine learning project based on Generative Adversial architecture. The data comprises 60.000 characters from a dataset of fonts. I trained a variational autoencoder that will be capable of compressing the character font data from 2500 dimensions down to 32 dimensions. The same model will be able to then reconstruct its original input with high fidelity. The true advantage of the variational autoencoder is its ability to create new outputs that come from distributions that closely follow its training data to output characters in brand new fonts.
